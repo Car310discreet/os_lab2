@@ -1,0 +1,7 @@
+2024-01-10 INFO User logged in
+2024-01-10 ERROR Disk full
+2024-01-11 WARNING High memory usage
+2024-01-11 INFO File uploaded
+2024-01-11 ERROR Network down
+2024-01-11 ERROR Network down
+2024-01-11 ERROR Network down
